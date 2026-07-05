@@ -75,16 +75,27 @@ streamlit run app.py
 
 ## 📸 Screenshots
 
-(Add your application screenshots here.)
+### 🏠 Home Page
 
-Example:
-
-- Home Page
-- Movie Selection
-- Recommendation Results
-- Movie Posters
+![Home Page](Screenshots/home.png)
 
 ---
+
+### 🔍 Search Result
+
+![Search Result](Screenshots/search_result.png)
+
+---
+
+### 🎬 Movie Details
+
+![Movie Details](Screenshots/Movie_Detail.png)
+
+---
+
+### ⭐ Top 10 Movie Recommendations
+
+![Movie Recommendations](Screenshots/recommendation.png)
 
 ## 📈 Future Improvements
 
